@@ -3,7 +3,7 @@ using UnityEngine;
 
 using UnityEngine.UI;
 
-namespace NotepadPP.EventButton
+namespace NotepadPP
 {
     public class EventButton : Button
 	{
